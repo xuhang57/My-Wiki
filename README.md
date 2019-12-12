@@ -1,2 +1,0 @@
-# My-Wiki
-Knowledge Universe
