@@ -4,4 +4,5 @@
 * [Object-Oriented & System Design](sys-design/sys-design.md)
 * [Database](db/db.md)
 * [Cybersecurity](cybersecurity/cybersecurity.md)
+* [Language](lang/overview.md)
 * [Behavior Questions](bq/bq.md)
