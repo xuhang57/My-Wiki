@@ -1,5 +1,5 @@
 * [Overview](/)
-* [Algorithm & Data Structure](algo-ds/algo-ds.md)
+* [Algorithm & Data Structure](algo-ds/overview.md)
 * [Operating System](os/os.md)
 * [Object-Oriented & System Design](sys-design/sys-design.md)
 * [Database](db/db.md)
