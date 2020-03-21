@@ -50,8 +50,8 @@ class Solution {
 }
 ```
 
-*Time: O(Max(M, N)) where M and N are the lengths of l1 and l2*\n
+*Time: O(Max(M, N)) where M and N are the lengths of l1 and l2*  
 *Space: O(Max(M,N) + 1)*
 
-Lucas\n
+Lucas  
 03/17/2020

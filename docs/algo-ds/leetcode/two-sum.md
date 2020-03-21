@@ -30,7 +30,7 @@ class Solution {
 }
 ```
 
-*Time: O(N * N) where N is the length of nums*\n
+*Time: O(N * N) where N is the length of nums*  
 *Space: O(1), in-place solution.*
 
 Now, thinking about why this solution is inefficient?
@@ -60,7 +60,7 @@ class Solution {
 }
 ```
 
-*Time: O(N) where N is the length of nums*\n
+*Time: O(N) where N is the length of nums*  
 *Space: O(N) The extra space is determined by the number of items stored in the hash table, which stores exactly N items*
 
 Again, how to improve it?
@@ -85,8 +85,8 @@ class Solution {
 }
 ```
 
-*Time: O(N)*\n
+*Time: O(N)*  
 *Space: O(N) The extra space is determined by the number of items stored in the hash table, which stores at most N items*
 
-Lucas Xu\n
+Lucas Xu  
 03/18/2020

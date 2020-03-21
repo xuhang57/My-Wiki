@@ -2,9 +2,8 @@
 
 Question: [Longest Substring Without Repeating Characters]()
 
-
 ```java
 ```
 
-*Time:* \n
+*Time:*  
 *Space:*
