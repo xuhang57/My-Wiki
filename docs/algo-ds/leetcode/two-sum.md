@@ -13,7 +13,7 @@ class Solution {
 
 Note: Ask the input, output types during the actual interview. Do not assume it is the exact question on Leetcode.
 
-* Brute Force Solution
+## Brute Force Solution
 
 ```java
 class Solution {
@@ -30,7 +30,7 @@ class Solution {
 }
 ```
 
-*Time: O(N * N) where N is the length of nums*
+*Time: O(N * N) where N is the length of nums*\n
 *Space: O(1), in-place solution.*
 
 Now, thinking about why this solution is inefficient?
@@ -39,7 +39,7 @@ not to change the index, which is required when using sorting algorithm.
 
 Another common technique is to trade space for a better time complexity. A classic data structure is HashTable (Dictionary).
 
-* Two Pass HashMap
+## Two Pass HashMap
 
 ```java
 class Solution {
@@ -60,13 +60,13 @@ class Solution {
 }
 ```
 
-*Time: O(N) where N is the length of nums*
+*Time: O(N) where N is the length of nums*\n
 *Space: O(N) The extra space is determined by the number of items stored in the hash table, which stores exactly N items*
 
 Again, how to improve it?
 We only need to have one HashMap to save space.
 
-* One Pass HashMap
+## One Pass HashMap
 
 ```java
 class Solution {
@@ -85,8 +85,8 @@ class Solution {
 }
 ```
 
-*Time: O(N)*
+*Time: O(N)*\n
 *Space: O(N) The extra space is determined by the number of items stored in the hash table, which stores at most N items*
 
-Lucas Xu
+Lucas Xu\n
 03/18/2020
