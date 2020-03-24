@@ -1,5 +1,3 @@
-# Table of Content
-
 * [Home](/)
 * [Algorithm](algorithm/overview.md)
 * [Data Structure](datastructure/overview.md)
