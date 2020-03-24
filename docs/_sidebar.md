@@ -1,8 +1,13 @@
-* [Overview](/)
-* [Algorithm & Data Structure](algo-ds/overview.md)
+# Table of Content
+
+* [Home](/)
+* [Algorithm](algorithm/overview.md)
+* [Data Structure](datastructure/overview.md)
+* [Leetcode](leetcode/overview.md)
 * [Operating System](os/os.md)
 * [Object-Oriented & System Design](sys-design/sys-design.md)
 * [Database](db/db.md)
+* [Network](network/overview.md)
 * [Cybersecurity](cybersecurity/cybersecurity.md)
 * [Language](lang/overview.md)
 * [Behavior Questions](bq/bq.md)
